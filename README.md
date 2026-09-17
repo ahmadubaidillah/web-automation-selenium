@@ -64,3 +64,15 @@ Setelah eksekusi, laporan tersedia di:
 ---
 
 Dibuat sebagai bagian dari portofolio belajar QA Automation — versi Java (Selenium + Cucumber + JUnit)
+
+---
+
+## 👤 Author
+
+**Ahmad Ubaidillah Asshidiqi**
+Junior QA Engineer
+
+- LinkedIn: [LinkedIn](https://id.linkedin.com/in/ahmad-ubaidillah-asshidiqi)
+- GitHub: [Github](https://github.com/ahmadubaidillah)
+
+
